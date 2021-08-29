@@ -21,4 +21,10 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation");
 		System.out.println("WebrAutomation");
 	}
+	
+	@Test
+	public void BrowserAutomation3() {
+		System.out.println("BrowserAutomation");
+		System.out.println("WebrAutomation");
+	}
 }
